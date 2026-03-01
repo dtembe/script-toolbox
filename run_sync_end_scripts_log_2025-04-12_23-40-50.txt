@@ -1,0 +1,5 @@
+[0;33m--- Ending Sync: Pushing changes to GitHub ---[0m
+Verified: Inside a git repository (/home/em7admin/pyDev/_otherDev/script-toolbox)
+Verified: Remote 'origin' exists.
+No changes to commit. Working tree clean.
+[0;32m--- Sync End Complete (No changes) ---[0m
